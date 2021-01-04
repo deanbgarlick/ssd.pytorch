@@ -128,4 +128,4 @@ data/ssd_dataloader.py
 .pylintrc
 
 #weights
-.pth
+*.pth
